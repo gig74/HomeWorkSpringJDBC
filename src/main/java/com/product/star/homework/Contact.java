@@ -3,7 +3,6 @@ package com.product.star.homework;
 import java.util.Objects;
 
 public class Contact {
-
     private Long id;
     private final String name;
     private final String surname;

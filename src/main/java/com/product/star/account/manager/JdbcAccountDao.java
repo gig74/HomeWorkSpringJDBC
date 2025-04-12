@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
-@Repository
+//@Repository
 public class JdbcAccountDao implements AccountDao {
 
     private static final String GET_ACCOUNT_SQL = "" +
